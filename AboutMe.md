@@ -4,7 +4,7 @@
 ##### 612-715-7404
 ![Professional Headshot](resources/HeadShot.jpg)
 # My Resume
-resources/Resume.pdf
+![Resume](resources/Resume.pdf)
 # About Me
 ##### I am a second year Data Science student at Michigan Technological University.
 ##### My current passion is predictive modelling and simulation design
