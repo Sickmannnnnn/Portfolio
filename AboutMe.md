@@ -2,9 +2,9 @@
 ##### zrsickma@mtu.edu
 ##### zack.sickmann@icloud.com
 ##### 612-715-7404
-![Professional Headshot](resources/Headshot.jpg)
+![Professional Headshot](resources/HeadShot.jpg)
 # My Resume
-https://github.com/Sickmannnnnn/Portfolio/resources/Resume.pdf
+resources/Resume.pdf
 # About Me
 ##### hello
 # My Projects
