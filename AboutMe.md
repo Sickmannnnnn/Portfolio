@@ -3,10 +3,10 @@
 ##### zack.sickmann@icloud.com
 ##### 612-715-7404
 \
-![](resources/Headshot.jpg)
+![Professional Headshot](resources/Headshot.jpg)
 \
 #My Resume
-![](resources/Resume.pdf)
+https://github.com/Sickmannnnnn/Portfolio/resources/Resume.pdf
 \
 #About Me
 ##### hello
