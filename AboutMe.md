@@ -10,7 +10,7 @@
 ##### My current passion is predictive modeling and simulation design
 ##### My goal for the coming years is to prepare myself for the workforce and to find a field which balances my passion with fulfillment.
 # My Experience
-##### I am currently a lab assistant for an introductory computer science course at MTU. I love seeing the creative ways new students solve seemingly straightforward problems
+##### I am currently a lab assistant for an introductory computer science course at MTU (CS1121 and CS1122). I love seeing the creative ways new students solve seemingly straightforward problems
 ##### This summer I am interning in the control room at MISO (Midcontinent Independent Systems Operator), gaining experience in Python scripting and unit testing.
 # My Projects
 ##### My projects are on display in this Github and in my resume
@@ -24,3 +24,4 @@
 ##### www.linkedin.com/in/zsickmann
 ##### https://github.com/Sickmannnnnn
 ##### I look forward to hearing from you!
+
